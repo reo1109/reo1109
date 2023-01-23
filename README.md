@@ -1,10 +1,10 @@
 ### Hi there 👋
 <p align="left">
-  <a href="https://github.com/lotushk95/lotushk95/">
-    <img src="https://komarev.com/ghpvc/?username=lotushk95" alt="lotushk95" />
+  <a href="https://github.com/reo1109/reo1109/">
+    <img src="https://komarev.com/ghpvc/?username=reo1109" alt="reo1109" />
   </a>
-  <a href="https://github.com/lotushk95">
-    <img height="20" src="https://img.shields.io/github/followers/lotushk95?label=follow&logo=github&style=flat" />
+  <a href="https://github.com/reo1109">
+    <img height="20" src="https://img.shields.io/github/followers/reo1109?label=follow&logo=github&style=flat" />
   </a>
 </p>
 <p align="left"> 
